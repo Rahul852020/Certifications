@@ -1,2 +1,2 @@
 # Certifications
-sql basics certificate
+
